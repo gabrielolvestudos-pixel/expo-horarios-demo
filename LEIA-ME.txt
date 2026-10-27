@@ -1,10 +1,7 @@
-INSTRUÇÕES — Expo Horários de demonstração
+EXPO HORÁRIOS V2 — DEMONSTRAÇÃO
 
-1. Extraia este arquivo ZIP no computador ou celular.
-2. No GitHub, acesse https://github.com/gabrielolvestudos-pixel/expo-horarios-demo/upload/main
-3. Envie APENAS o arquivo index.html que foi extraído. Não envie o ZIP.
-4. Clique em Commit changes.
-5. Em Settings > Pages > Build and deployment selecione Deploy from a branch / main / (root) e Save.
-6. Abra https://gabrielolvestudos-pixel.github.io/expo-horarios-demo/ após concluir a publicação.
-
-Professores fictícios. Armazenamento local no navegador, sem Firebase.
+No repositório GitHub, substitua o index.html antigo por este index.html.
+Em caso de cache antigo, atualize com Ctrl+F5.
+Novas ações: excluir docente, limpar horários, novo planejamento.
+A base pública usa professores fictícios e salva alterações apenas no navegador.
+NÃO é a versão institucional compartilhada. Para usar com várias coordenadoras, configurar Firebase seguro.
